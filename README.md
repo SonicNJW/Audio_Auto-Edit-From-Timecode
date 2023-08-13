@@ -4,7 +4,7 @@ Given a PDF script that specifies timecodes, auto-edit source audio to extract r
 
 Steps:
 
-1. Manually prepare source-audio document - A plain text file that has the following format:
+1. Manually prepare source-audio document - A plain text file that has the following format:  
    Filename 1
    timecode 1
    timecode 2
